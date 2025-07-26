@@ -1,5 +1,3 @@
----
-
 ````markdown
 # ✅ Lab 4: Creating Dashboards and Alerts Using KQL
 
