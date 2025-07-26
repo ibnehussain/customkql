@@ -24,8 +24,7 @@ Provision an Ubuntu 22.04 VM in Azure, configure diagnostics and log forwarding,
    - ✅ **Boot diagnostics** → *Enable with managed storage account*
    - ✅ **Enable OS guest diagnostics**
    - ❌ Skip "Enable application health monitoring"
-2. Select or create a **Log Analytics Workspace**
-   - If not shown here, you can connect the VM later (see below)
+
 
 ### 🔹 Step 3: Review and Create
 - Click **Review + Create** → then **Create**
